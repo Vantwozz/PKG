@@ -1,0 +1,11 @@
+debug/brforcircle.o
+debug/brforsegment.o
+debug/dda.o
+debug/dialog.o
+debug/main.o
+debug/mainwindow.o
+debug/naivealgorithm.o
+debug/moc_brforcircle.o
+debug/moc_dialog.o
+debug/moc_mainwindow.o
+debug/moc_naivealgorithm.o
